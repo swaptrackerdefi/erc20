@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="OpenZeppelin" height="40px">
+# <img src="logo.png" alt="SwapTracker ERC20" height="40px">
 
 [.readme-notice]
 NOTE: This document is better viewed at https://docs.openzeppelin.com/contracts/api/token/erc20
